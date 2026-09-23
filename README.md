@@ -23,7 +23,7 @@ A modern, responsive, dark-themed portfolio website built with **vanilla HTML, C
 
 ## 🌐 Live Demo
 
-> Replace this with your deployed URL after hosting.
+> https://portfolio-nine-weld-42.vercel.app/
 
 ---
 
@@ -248,27 +248,8 @@ All image locations use a **graceful fallback** — if an image file is missing,
 | `assets/projects/*.jpg` | 800×500px | Project screenshots (7 images) |
 | `assets/testimonials/*.jpg` | 200×200px | Client avatar photos (3 images) |
 
-> 💡 **Tip**: Use [https://unsplash.com](https://unsplash.com) for free stock photos, or take actual screenshots of your projects.
-
 ---
 
-## 🌍 Deployment
-
-### GitHub Pages (Free)
-1. Push this repository to GitHub
-2. Go to **Settings → Pages**
-3. Set source to **main branch** and **/ (root)**
-4. Your site will be live at `https://yourusername.github.io/MyPortfolio`
-
-### Netlify (Free)
-1. Drag and drop the project folder into [Netlify Drop](https://app.netlify.com/drop)
-2. Get an instant live URL
-
-### Vercel (Free)
-1. Import the GitHub repo on [vercel.com](https://vercel.com)
-2. Deploy with zero configuration
-
----
 
 ## 🛠 Technologies Used
 
